@@ -64,7 +64,7 @@ Este código mantém um cronômetro que rastreia o tempo que o usuário está as
 ## Vídeo Explicativo
 
 Para uma explicação detalhada de cada parte do projeto, assista ao vídeo disponível no link abaixo:
-[Vídeo Explicativo do Projeto](https://www.canva.com/design/DAGEMyf7rcQ/cNwLiiHkScdg7CUHaZc7ug/edit?utm_content=DAGEMyf7rcQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Vídeo Explicativo do Projeto](https://www.youtube.com/watch?v=8b4p7d8q0Z8)
 
 ## Conclusão
 
