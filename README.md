@@ -61,6 +61,11 @@ Este código mantém um cronômetro que rastreia o tempo que o usuário está as
    - O primeiro código exibirá a velocidade, direção e nível de bateria do carro simulado.
    - O segundo código monitorará o tempo de visualização e notificará os drops a cada 3 horas.
 
+## Vídeo Explicativo
+
+Para uma explicação detalhada de cada parte do projeto, assista ao vídeo disponível no link abaixo:
+[Vídeo Explicativo do Projeto](https://www.canva.com/design/DAGEMyf7rcQ/cNwLiiHkScdg7CUHaZc7ug/edit?utm_content=DAGEMyf7rcQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## Conclusão
 
 Este projeto oferece uma maneira interativa e informativa de acompanhar uma simulação de Fórmula E e recompensar os telespectadores pela sua participação ativa.
