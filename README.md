@@ -1,5 +1,13 @@
 # EdgeSprint: Projeto de Simulação e Benefícios para Telespectadores
 
+## Integrantes do Grupo
+
+- Gabriel Terra Lilla, RM: 554575
+- Lucas Derenze Simidu, RM: 555931
+- Marcos Vinicius da Silva Costa, RM: 555490
+- Ricardo Cerazi di Tilia, RM: 555155
+- Caio Felipe de Lima Bezerra, RM: 556197
+
 ## Objetivo do Projeto
 Este projeto tem como objetivo simular a aceleração, direção e nível de bateria de um carro de Fórmula E para exibir esses dados em tempo real aos telespectadores. Além disso, ele proporciona uma interação adicional com um cronômetro que beneficia os usuários com drops (recompensas) à medida que assistem às transmissões.
 
